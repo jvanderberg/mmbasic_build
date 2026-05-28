@@ -8,7 +8,7 @@ program and file storage, and audio through a class-D amplifier and speaker.
 
 This repo is the companion build guide for the YouTube video.
 
-![workstation](docs/workstation.jpg) <!-- add your own photo -->
+![The workstation wired up: Pico 2 W with DVI sock, 5" LCD running Mandelbrot, 18650 cells, microSD module, and USB keyboard](guts.png)
 
 ---
 
