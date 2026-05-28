@@ -159,6 +159,8 @@ Pico.
 
 ## Case
 
+![3D-printed "Mini IBM PC" enclosure next to a real IBM PC for scale](enclosure.png)
+
 A 3D-printed enclosure holds everything together. This build uses the
 [Mini IBM PC (working clone!)](https://www.thingiverse.com/thing:7149915) model
 on Thingiverse. Print it and customize it to suit your own layout, drilling or
