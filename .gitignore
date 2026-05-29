@@ -8,3 +8,6 @@ Thumbs.db
 # Editor temp
 *.swp
 *~
+
+# Local-only YouTube description (kept on disk, not tracked)
+youtube-description.txt
