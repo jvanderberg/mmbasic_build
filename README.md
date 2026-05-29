@@ -249,7 +249,7 @@ Type `RUN` to run it. Save it to the SD card with `SAVE "HELLO.BAS"`.
   card is FAT32-formatted, and confirm the `OPTION SDCARD` pins (CS, CLK, MOSI,
   MISO) match your wiring.
 - **No sound**: verify `Vin` is at 5 V, the I2S pins match the `OPTION AUDIO`
-  command, and `LRCLK` is wired to GP21 (BCLK + 1). Try a higher `GAIN`.
+  command, and `LRCLK` is wired to GP21 (BCLK + 1).
 
 ---
 
